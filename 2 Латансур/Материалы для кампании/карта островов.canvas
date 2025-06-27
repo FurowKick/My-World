@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"267540663d3c92d8","type":"text","text":"Островной город \"\"","x":-180,"y":-80,"width":250,"height":60},
+		{"id":"2b43f6cc21fe22af","type":"text","text":"Остров без выраженных интересностей","x":-180,"y":40,"width":250,"height":60},
+		{"id":"96102024f69a7582","type":"text","text":"Остров с кристаллическим драконом","x":160,"y":-80,"width":250,"height":60},
+		{"id":"aa322fe274454b99","type":"text","text":"Остров с руинами","x":-540,"y":-80,"width":250,"height":60},
+		{"id":"a0b36c9a9d8f5da3","type":"text","text":"Остров ковена","x":-540,"y":40,"width":250,"height":60},
+		{"id":"63302b0c2b21a60f","type":"text","text":"Некромант пивовар","x":-540,"y":280,"width":250,"height":60},
+		{"id":"81f1a9e8bad60059","type":"text","text":"Дикий папуасский танк","x":-180,"y":280,"width":250,"height":60},
+		{"id":"0b03e1bd39b8ac10","type":"text","text":"Остров где всё портится быстрее","x":160,"y":280,"width":250,"height":60},
+		{"id":"c21cf027e49e5936","type":"text","text":"Живой остров, который следит и не выпускает","x":-180,"y":400,"width":250,"height":60},
+		{"id":"4943fcd6cfb982b9","type":"text","text":"Звериный остров","x":-180,"y":530,"width":250,"height":60},
+		{"id":"6b7470027a523dc4","type":"text","text":"Остров без магии","x":-180,"y":660,"width":250,"height":60},
+		{"id":"c210a770d15a4e92","type":"text","text":"Остров лабиринт","x":-540,"y":400,"width":250,"height":60},
+		{"id":"0589074014fc0521","type":"text","text":"Остров исполнения желаний на день","x":-540,"y":530,"width":250,"height":60},
+		{"id":"7b91f818ad366287","type":"text","text":"Остров вечного дня","x":-540,"y":660,"width":250,"height":60},
+		{"id":"c360b4530b23cb63","type":"text","text":"остров где нельзя умереть","x":160,"y":400,"width":250,"height":60},
+		{"id":"421c7f0c8ef07049","type":"text","text":"Остров дубликатов","x":160,"y":530,"width":250,"height":60},
+		{"id":"ddd9f24cf0e65853","type":"text","text":"Остров вечной ночи","x":160,"y":660,"width":250,"height":60},
+		{"id":"f74b59ca8bde1b2c","type":"text","text":"Остров лгунов и правдецов","x":-180,"y":800,"width":250,"height":60},
+		{"id":"684a824ccfc90ea0","type":"text","text":"Город \"Кастелло\"","x":-180,"y":-400,"width":250,"height":60},
+		{"id":"56d4fb607e6c3769","type":"text","text":"Ориетир","x":-180,"y":-260,"width":250,"height":60},
+		{"id":"7edc87f80e4e0673","type":"text","text":"Финал","x":-180,"y":920,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e59b49a4e55d7b7a","fromNode":"684a824ccfc90ea0","fromSide":"bottom","toNode":"56d4fb607e6c3769","toSide":"top"}
+	]
+}
